@@ -1,3 +1,0 @@
-change stdio to logfile: OK!
-expected file descriptors 0 1 2
-hello log file
